@@ -7,9 +7,9 @@
 
 ## Install CPython Script Executer
 
-1- Go to http://www.pentaho.com/marketplace/ and download the plugin.
-2- Close the pdi
-3- Unzip all the files in pdi-path/plugins.
+1. Go to http://www.pentaho.com/marketplace/ and download the plugin.
+2. Close the pdi
+3. Unzip all the files in pdi-path/plugins.
 4- Install Python.
 ```
 sudo apt-get install python
