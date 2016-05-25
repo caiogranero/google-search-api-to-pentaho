@@ -11,6 +11,7 @@
 2. Close the pdi
 3. Unzip all the files in pdi-path/plugins.
 4. Install Python.
+
 	```
 	sudo apt-get install python
 	```
@@ -18,9 +19,11 @@
 	```
 	sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose
 	```
+
 	```
 	apt-get -y install python-pip
 	```
+
 	```
 	sudo pip install -U scikit-learn
 	```
